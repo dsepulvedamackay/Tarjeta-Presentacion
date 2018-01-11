@@ -1,0 +1,73 @@
+body {
+	display: inline-block;
+	background-color: rgb(218,214,250);
+	font-family: roboto;
+
+}
+
+#caja{
+	display: inline-flex;
+}
+
+#tarjeta{
+	display: inline-flex;
+	height: 30vw;
+	width: 50vw;
+	background-color: white;
+	margin-top:6vw;
+	margin-left: 24vw;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#principalPhoto{
+	border-radius: 30vw;
+	height: 15vw;
+	width: 15vw;
+	margin-top: 8vw;
+	margin-left: 2.6vw;
+	box-shadow: 0 1px 20px 0 rgba(0,0,0,0.2), 0 1px 20px 0 rgba(0,0,0,0.19);
+}
+
+#cajaPhoto{
+	height: 30vw;
+	width: 20vw;
+	background-color: rgb(72,64,138);
+	
+}
+
+#txtName{
+	display: inline-flex;
+	font-weight: 700;
+	font-size: 2.1vw;
+	margin-top: 4vw;
+	margin-left: 3vw;
+	color: rgb(50,43,114);
+}
+
+.txt{
+	font-size: 1.2vw;
+	text-align: center;
+	margin-left: 4vw;
+	margin-right: 4vw;
+	font-weight: 300;
+}
+
+#correo{
+	font-size: 1.5vw;
+	color: rgb(72,64,138);
+	
+}
+#logos{
+	display: inline-flex;
+	margin-left: 6.5vw;
+	margin-top: -2.5vw;
+}
+
+.logo{
+	display: inline-flex;
+	height: 5vw;
+	width: 5vw;
+	margin-right: 3vw; 
+	border-radius: 25vw;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
